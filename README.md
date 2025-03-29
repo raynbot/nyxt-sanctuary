@@ -63,4 +63,4 @@ Created by [raynbot](https://github.com/raynbot)
 
 ## 📄 License
 
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
+This project is licensed under the [GNU General Public License v3.0](https://opensource.org/license/gpl-3-0).
